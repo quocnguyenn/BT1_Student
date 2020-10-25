@@ -1,0 +1,58 @@
+*{
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background:aqua;
+}
+a{
+    margin-top: 20px;
+    padding: center;
+}
+.header{
+    background: rgba(19, 126, 189, 0.767);
+    height: 50px;
+    padding-top:10px ;
+
+}
+.form_ThemSV{
+    width: 1044px;
+    margin-left: 50px;
+    padding-top: 0px;
+    padding: 19px;
+
+}
+input{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+    width: 224px;
+}
+span{
+    margin-top: 20px;
+}
+.ngaysinh{
+    margin-left: 40px;
+}
+form{
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    width: 367px;
+    background: rgb(226, 12, 29);
+}
+.btnEdit{
+    width: 102px;
+    background: darkorange;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.btnDelete{
+    background: red;
+    width: 102px;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
